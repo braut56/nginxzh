@@ -1,0 +1,9 @@
+Section 1: Introduction to NGINX
+What is NGINX?
+NGINX is an open-source, high-performance web server that also functions as:
+
+A reverse proxy
+Load balancer
+HTTP cache
+Mail proxy
+It is designed for high concurrency, performance, and low memory usage — making it ideal for modern DevOps and cloud environments.
